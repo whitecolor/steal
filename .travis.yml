@@ -1,5 +1,5 @@
 language: node_js
-node_js: 0.10
+node_js: 0.10.30
 before_script: node node_modules/bower/bin/bower install
 script: npm test
 before_install:
